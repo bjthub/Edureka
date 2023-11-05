@@ -1,0 +1,4 @@
+#!/bin/bash
+# Simple Hello World and I love you script.
+
+echo "Hello World, PS: I love you."
