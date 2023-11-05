@@ -1,4 +1,8 @@
 #!/bin/bash
 # Simple Hello World and I love you script.
 
+If we look down on earth from space, I think we humans should not have borders.
+
 echo "Hello World, PS: I love you."
+
+
